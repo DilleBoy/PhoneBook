@@ -9,7 +9,7 @@ Description..
 
 3 In the first terminal, type npm start and press enter.
 
-4 In the other terminal, type npm run json server and press enter.
+4 In the other terminal, type npm run json-server and press enter.
 
 5 Now everything should be up and running. You can add, update, delete, search and everything is saved on Json-Fil
 
